@@ -1,0 +1,12 @@
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.MainForm.resources
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+E:\For Check\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\For Check\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\For Check\Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\For Check\Tic-Tac-Toe\TicTacToe\bin\Debug\MaterialSkin.dll
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\For Check\Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.pdb
